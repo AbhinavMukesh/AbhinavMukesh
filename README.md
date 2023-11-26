@@ -1,5 +1,9 @@
 ### Hi there, I am Abhinav Mukesh! 👋
 
+[![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/abhinav-mukesh/)
+
+[![Twitter URL](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter&style=for-the-badge)](https://twitter.com/AbhinavMukesh)
+
 ## **I'm a Software Architect by profession.**
 
 - 🎯 **I’m currently working on**: Mastering the intricacies of Modular Monoliths, DDD, and some advanced software architectures
